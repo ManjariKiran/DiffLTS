@@ -1,3 +1,3 @@
 # DiffLTS
-This R package with different functions aims to identify differential chromatin structure considering local bacground from a Hi-C data.
+This R package aims to identify differential chromatin structure considering local bacground from Hi-C dataset.
 
